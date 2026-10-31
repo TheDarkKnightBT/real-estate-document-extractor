@@ -1,0 +1,18 @@
+{
+  "precio": "USD 120000",
+  "precio_sin_clasificar": null,
+  "moneda": "USD",
+  "area_terreno": "100 m2",
+  "area_techada": null,
+  "area_edificio_sin_clasificar": null,
+  "area_total_pisos": null,
+  "area_ocupacion_edificio": null,
+  "area_privativa": null,
+  "numero_departamentos": null,
+  "numero_viviendas": null,
+  "total_unidades": null,
+  "direccion": "Calle Ejemplo 123, Ciudad Ficticia",
+  "varias_propiedades": false,
+  "observaciones": "Ejemplo redactado manualmente; no salida del servicio.",
+  "evidencia": "Precio de venta: USD 120000."
+}

@@ -1,0 +1,4 @@
+DATOS FICTICIOS PARA PRUEBAS
+Ficha DEMO-001. Precio de venta: USD 120000.
+Área de terreno: 100 m2. Dirección: Calle Ejemplo 123, Ciudad Ficticia.
+No identifica área techada ni número de unidades.

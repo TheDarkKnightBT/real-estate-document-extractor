@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+*.pem
+*.key
+pdfs/*
+!pdfs/.gitkeep
+resultados/*
+!resultados/.gitkeep
